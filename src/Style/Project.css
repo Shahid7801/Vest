@@ -27,12 +27,16 @@ padding-top: 20px;
 .project-box .text{
     padding: 10px;
     text-align: center;
+    overflow: hidden;
 }
 .project-box h2{
 /* color: blue; */
-font-size: 20px;
+font-size: 14px;
 margin: 0;
 
+}
+.project-box p{
+  font-size: 10px;
 }
 .project-box img{
     object-fit: auto;

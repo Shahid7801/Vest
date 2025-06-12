@@ -26,13 +26,17 @@
 
 }
 .about-image img{
-    width: 45%;
+    width: 40%;
     object-fit:cover;
     height: auto;
+    margin-right: 20px;
 }
 .content{
-    width: 45%;
+    width: 40%;
     text-align: left;
+    margin-left: 2rem;
+    overflow: hidden;
+    padding: 10px;
 }
 .content h1{
     color: rgba(0, 153, 255, 0.601);

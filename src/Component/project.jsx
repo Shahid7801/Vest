@@ -6,8 +6,8 @@ const Project = () => {
         <div className="project">
             <h1>Our Latest Completed Projects</h1>
             <div className="project-1">
-            <button className="button">Back</button>
-            <div className="project-box">
+                <button className="button">Back</button>
+                <div className="project-box">
                     <img src={Img} alt="Loading" />
                     <div className="text">
                         <h2>Lorem Ipsum dolor sit amet</h2>
